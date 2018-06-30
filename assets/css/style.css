@@ -1,0 +1,36 @@
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#instructions {
+  font-size: 20px;
+  background-color: lightblue;
+  width: 600px;
+}
+
+#randomNumber {
+  background-color: rgb(228, 210, 187);
+  padding: 25px;
+  margin-top: 25px;
+  width: 100px;
+}
+
+button {
+  margin-top: 25px;
+}
+
+#scoreHeader {
+  margin-top: 25px;
+  background-color: rgb(243, 142, 142);
+  padding: 8px;
+  width: 200px;
+}
+
+#userScore {
+  background-color: rgb(243, 142, 142);
+  padding: 25px;
+  width: 100px;
+  margin-top: 25px;
+}
