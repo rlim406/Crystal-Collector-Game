@@ -1,4 +1,4 @@
-#Crystal Collector Game
+Crystal Collector Game
 
 **Instructions**
 
@@ -7,5 +7,30 @@
 3.  The objective of the game is for the player to use the four crystals and add their values to match the random number generated at the beginning of the game.
 4.  If the player is able to match the random value with the final total from adding the crystal's values, then their wins will increase by 1 and a "Winner!" message will be displayed.
 5.  If however the final total from adding the crystal's values is greater than the random number, then their losses will increase by 1 and a "Better luck next time" message will be displayed.
-6.  After the player either wins or loses the game will reset with a new random number displayed. The four crystals will also have a new random value assigned to them.
+6.  After the player either wins or loses, the game will reset with a new random number displayed. The four crystals will also have a new random value assigned to them.
 7.  The wins and losses do not reset and act as a tally.
+
+**Technologies used**
+
+Html
+CSS
+Bootstrap
+jQuery
+
+**File Structure**
+
+├── assets
+|   ├── css
+|   |   └──reset.css
+|   |   └──style.css
+|   |   └──memphis-colorful.png
+|   ├── images
+|       └── aquamarine.jpg
+|       └── green.jpg
+|       └── purple.jpg
+|       └── red.jpg
+|   ├── javascript 
+|       └── game.js
+└── index.html
+
+
