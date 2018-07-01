@@ -20,17 +20,29 @@ jQuery
 **File Structure**
 
 ├── assets
+
 |   ├── css
+
 |   |   └──reset.css
+
 |   |   └──style.css
+
 |   |   └──memphis-colorful.png
+
 |   ├── images
+
 |       └── aquamarine.jpg
+
 |       └── green.jpg
+
 |       └── purple.jpg
+
 |       └── red.jpg
+
 |   ├── javascript 
+
 |       └── game.js
+
 └── index.html
 
 
