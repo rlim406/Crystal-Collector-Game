@@ -31,17 +31,17 @@ jQuery
 
 │   ├── images
 
-│       └── aquamarine.jpg
+│   │    └── aquamarine.jpg
 
-│       └── green.jpg
+│   │    └── green.jpg
 
-│       └── purple.jpg
+│   │    └── purple.jpg
 
-│       └── red.jpg
+│   │    └── red.jpg
 
 │   ├── javascript 
 
-│       └── game.js
+│   │    └── game.js
 
 └── index.html
 
