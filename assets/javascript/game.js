@@ -15,7 +15,7 @@ function winning() {
 
 function losing() {
   losses++;
-  $('#win-lose').html('<h2>Loser!</h2>');
+  $('#win-lose').html('<h2>Better luck next time!</h2>');
   $('#losses').html('<h3> Losses:' + losses + '</h3>');
 }
 

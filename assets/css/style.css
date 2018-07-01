@@ -1,36 +1,78 @@
+body {
+  background-image: url('memphis-colorful.png');
+}
+
+#background {
+  background-color: rgb(250, 247, 243);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
 h1 {
-  font-size: 25px;
+  font-size: 40px;
+  font-family: 'Alice', serif;
   font-weight: bold;
+  text-align: center;
   margin-bottom: 20px;
+  padding-top: 15px;
 }
 
 #instructions {
+  font-family: 'Alice', serif;
+  text-align: center;
+  margin-left: 75px;
+  margin-right: 75px;
+  padding: 15px;
   font-size: 20px;
-  background-color: lightblue;
-  width: 600px;
+  background-color: rgb(184, 227, 241);
 }
 
 #randomNumber {
-  background-color: rgb(228, 210, 187);
+  background-color: rgb(228, 187, 222);
+  font-family: 'Alice', serif;
+  font-size: 50px;
+  text-align: center;
   padding: 25px;
   margin-top: 25px;
-  width: 100px;
+  margin-left: 60px;
 }
 
 button {
   margin-top: 25px;
 }
 
+#buttonGroup {
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
 #scoreHeader {
-  margin-top: 25px;
+  font-family: 'Alice', serif;
+  font-size: 20px;
   background-color: rgb(243, 142, 142);
-  padding: 8px;
-  width: 200px;
+  padding: 15px;
+  margin-top: 25px;
+  margin-left: 75px;
+  margin-right: 75px;
 }
 
 #userScore {
   background-color: rgb(243, 142, 142);
-  padding: 25px;
-  width: 100px;
+  font-family: 'Alice', serif;
+  font-size: 30px;
+  padding: 15px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+#scoreMessage,
+h3 {
+  font-family: 'Alice', serif;
+  font-size: 30px;
+  background-color: rgb(116, 214, 116);
+  padding: 15px;
   margin-top: 25px;
+  margin-right: 60px;
 }
