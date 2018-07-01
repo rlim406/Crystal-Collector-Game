@@ -21,27 +21,27 @@ jQuery
 
 ├── assets
 
-|   ├── css
+│   ├── css
 
-|   |   └──reset.css
+│   │   └──reset.css
 
-|   |   └──style.css
+│   │   └──style.css
 
-|   |   └──memphis-colorful.png
+│   │   └──memphis-colorful.png
 
-|   ├── images
+│   ├── images
 
-|       └── aquamarine.jpg
+│       └── aquamarine.jpg
 
-|       └── green.jpg
+│       └── green.jpg
 
-|       └── purple.jpg
+│       └── purple.jpg
 
-|       └── red.jpg
+│       └── red.jpg
 
-|   ├── javascript 
+│   ├── javascript 
 
-|       └── game.js
+│       └── game.js
 
 └── index.html
 
